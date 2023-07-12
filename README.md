@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WagnerCaris
-- 👀 I’m interested in ... Eletronical, Arduino, PICs & Automation.
-- 🌱 I’m currently learning ... Python and C.
+- 👀 I’m interested in ... Eletronical, Arduino, PICs, Automation; Also like front & back-end.
+- 🌱 I’m currently learning ... Javasript and C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
