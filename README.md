@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WagnerCaris
-- 👀 I’m interested in ... Eletronical, Arduino, PICs, Automation; Also like front & back-end.
-- 🌱 I’m currently learning ... Javasript and C.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in exploring front-end developement frameworks like React and Vue.js.
+- 🌱 I’m currently learning Web languages, Python n a bit of C++.
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
 <!---
