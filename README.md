@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WagnerCaris
-- 👀 I’m interested in exploring front-end developement frameworks like React and Vue.js.
-- 🌱 I’m currently learning Web languages, Python n a bit of C++.
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 👋 I’m @WagnerCaris
+  
+- 👀 I’m interested in exploring back-end, raspberry Pi, esp32, microcontrolers, FPGAs, Embebed Linux.
+- 💞️ I’m looking to collaborate on... SAR projects, images processing,
+- 📫 How to reach me ... www.linkedin.com/in/wagnercaris
 
 <!---
 WagnerCaris/WagnerCaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
